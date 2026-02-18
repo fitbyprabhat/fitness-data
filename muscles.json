@@ -142,23 +142,5 @@
     "headline": "Inner Thigh Strength",
     "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Hip-Adductors_transparent.png",
     "description": "Muscles spanning your inner thigh."
-  },
-  "t_bar_row": {
-    "name": "T-Bar Row",
-    "headline": "T-Bar Row Strength",
-    "image_url": "",
-    "description": ""
-  },
-  "t_bar_row_machine": {
-    "name": "T-Bar Row Machine",
-    "headline": "T-Bar Row Machine Strength",
-    "image_url": "",
-    "description": ""
-  },
-  "v_bar_lat_pulldown": {
-    "name": "V-Bar Lat Pulldown",
-    "headline": "V-Bar Lat Pulldown Strength",
-    "image_url": "",
-    "description": ""
   }
 }
