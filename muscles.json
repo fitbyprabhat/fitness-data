@@ -1,0 +1,164 @@
+{
+  "lower_abs": {
+    "name": "Lower Abs",
+    "headline": "Lower Abs Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-LOWER_transparent.png",
+    "description": "Lower abdomen, from just above your belly button to your pubis. The lower half of the six pack abs."
+  },
+  "upper_abs": {
+    "name": "Upper Abs",
+    "headline": "Upper Abs Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Rectus-Abdominis-UPPER_transparent.png",
+    "description": "Upper abdomen, from just above your belly button to your sternum. The upper half of the six pack abs."
+  },
+  "back_shoulder": {
+    "name": "Back Shoulder",
+    "headline": "Back Shoulder Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Deltoids-BACK_transparent.png",
+    "description": "Outer region of your upper back as well as the back area of your shoulder."
+  },
+  "lats": {
+    "name": "Lats",
+    "headline": "Lats Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Latissimus-Dorsi_transparent.png",
+    "description": "Largest muscle of your back, spanning from the lower to middle regions creating a v shape."
+  },
+  "obliques": {
+    "name": "Obliques",
+    "headline": "Obliques Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Obliques_transparent.png",
+    "description": "Outer sides of your abdomen."
+  },
+  "quads": {
+    "name": "Quads",
+    "headline": "Quads Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Quadriceps_transparent.png",
+    "description": "Muscles spanning the front of your thigh."
+  },
+  "front_shoulder": {
+    "name": "Front Shoulder",
+    "headline": "Front Shoulder Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-FRONT_transparent.png",
+    "description": "Front portion of your shoulder."
+  },
+  "lower_tricep": {
+    "name": "Lower Tricep",
+    "headline": "Lower Tricep Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-UPPER_transparent.png",
+    "description": "Lower tricep, close to your elbow."
+  },
+  "outer_tricep": {
+    "name": "Outer Tricep",
+    "headline": "Outer Tricep Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-LOWER_transparent.png",
+    "description": "Outer region of your tricep."
+  },
+  "side_shoulder": {
+    "name": "Side Shoulder",
+    "headline": "Side Shoulder Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Deltoids-SIDE_transparent.png",
+    "description": "Outer portion of your shoulder."
+  },
+  "upper_back": {
+    "name": "Upper Back",
+    "headline": "Upper Back Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Trapezius_transparent.png",
+    "description": "A significant portion of the upper region of your back. It is widest in the middle, forming a diamond shape that connects the middle of your back to both of your shoulder blades and the upper portion of your neck. It is comprised of three regions. Each region has a different function and is trained in different ways."
+  },
+  "upper_tricep": {
+    "name": "Upper Tricep",
+    "headline": "Upper Tricep Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Triceps-OUTER_transparent.png",
+    "description": "Upper region of your tricep."
+  },
+  "lower_back": {
+    "name": "Lower Back",
+    "headline": "Lower Back Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/lower-back.png",
+    "description": "Center region of your back, spanning from the pelvis to just below the neck. However, parts of it are hidden beneath other muscles. The lower portion is the most visible."
+  },
+  "glutes": {
+    "name": "Glutes",
+    "headline": "Glutes Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Gluteus-Maximus_transparent.png",
+    "description": "Muscles of your butt."
+  },
+  "hamstrings": {
+    "name": "Hamstrings",
+    "headline": "Hamstrings Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Hamstrings_transparent.png",
+    "description": "Muscles spanning the back of your thigh."
+  },
+  "lower_chest": {
+    "name": "Lower Chest",
+    "headline": "Lower Chest Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-LOWER_transparent.png",
+    "description": "Largest portion of your chest, spanning from your sternum to your shoulder. It takes up a majority of your chest and is multiple times larger than your clavicular head."
+  },
+  "upper_chest": {
+    "name": "Upper Chest",
+    "headline": "Upper Chest Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Chest-UPPER_transparent.png",
+    "description": "Smallest portion of your chest, spanning from your clavicle to your shoulder. It takes up a very small area of your chest and is multiple times smaller than your sternal head."
+  },
+  "inner_bicep": {
+    "name": "Inner Bicep",
+    "headline": "Inner Bicep Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Biceps-SHORT_transparent.png",
+    "description": "Inner portion of your bicep."
+  },
+  "inner_forearm": {
+    "name": "Inner Forearm",
+    "headline": "Inner Forearm Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Wrist-Flexors_transparent.png",
+    "description": "A group of muscles on the inside of your lower arm."
+  },
+  "outer_bicep": {
+    "name": "Outer Bicep",
+    "headline": "Outer Bicep Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Biceps-LONG_transparent.png",
+    "description": "Outer portion of your bicep."
+  },
+  "outer_forearm": {
+    "name": "Outer Forearm",
+    "headline": "Outer Forearm Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08751101-Wrist-extensors_transparent.png",
+    "description": "A group of muscles on the outside and sides of your lower arm."
+  },
+  "calves": {
+    "name": "Calves",
+    "headline": "Calves Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Gastrocnemius_transparent.png",
+    "description": "A group of muscles on the back of your lower leg that spans from your heel to your knee."
+  },
+  "outer_thigh": {
+    "name": "Outer Thigh",
+    "headline": "Outer Thigh Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Gluteus-Medius_transparent.png",
+    "description": "Muscles spanning your outer thigh."
+  },
+  "inner_thigh": {
+    "name": "Inner Thigh",
+    "headline": "Inner Thigh Strength",
+    "image_url": "https://app.fitnessai.com/musclegroups/full/08761101-Hip-Adductors_transparent.png",
+    "description": "Muscles spanning your inner thigh."
+  },
+  "t_bar_row": {
+    "name": "T-Bar Row",
+    "headline": "T-Bar Row Strength",
+    "image_url": "",
+    "description": ""
+  },
+  "t_bar_row_machine": {
+    "name": "T-Bar Row Machine",
+    "headline": "T-Bar Row Machine Strength",
+    "image_url": "",
+    "description": ""
+  },
+  "v_bar_lat_pulldown": {
+    "name": "V-Bar Lat Pulldown",
+    "headline": "V-Bar Lat Pulldown Strength",
+    "image_url": "",
+    "description": ""
+  }
+}
